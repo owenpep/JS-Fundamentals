@@ -27,3 +27,15 @@ c is undefined
 PS C:\Users\iyobo\JS-Fundamentals> node 4-concat.js  
 undefined is undefined
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js 
+Not a number
+PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js 89
+My number: 89
+PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js "89"
+My number: 89
+PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js 89.89
+My number: 89
+PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js school
+Not a number
+PS C:\Users\iyobo\JS-Fundamentals>
