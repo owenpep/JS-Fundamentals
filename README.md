@@ -45,3 +45,17 @@ C is fun
 Python is cool
 JavaScript is amazing
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js 2
+C is fun
+C is fun
+PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js 5
+C is fun
+C is fun
+C is fun
+C is fun
+C is fun
+PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js
+Missing number of occurrences
+PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js -3
+Missing number of occurrences
