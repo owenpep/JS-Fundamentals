@@ -19,3 +19,11 @@ No argument
 PS C:\Users\iyobo\JS-Fundamentals> node 3-value_argument.js  School
 School
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 4-concat.js c cool
+c is cool
+PS C:\Users\iyobo\JS-Fundamentals> node 4-concat.js c
+c is undefined
+PS C:\Users\iyobo\JS-Fundamentals> node 4-concat.js  
+undefined is undefined
+PS C:\Users\iyobo\JS-Fundamentals> 
