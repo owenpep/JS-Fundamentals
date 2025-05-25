@@ -39,3 +39,9 @@ My number: 89
 PS C:\Users\iyobo\JS-Fundamentals> node 5-to_integer.js school
 Not a number
 PS C:\Users\iyobo\JS-Fundamentals>
+
+PS C:\Users\iyobo\JS-Fundamentals> node 6-multi_languages_loop.js 
+C is fun
+Python is cool
+JavaScript is amazing
+PS C:\Users\iyobo\JS-Fundamentals> 
