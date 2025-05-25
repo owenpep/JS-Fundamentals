@@ -5,3 +5,11 @@ C is fun
 Python is cool       
 JavaScript is amazing
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 2-arguments.js
+No argument
+PS C:\Users\iyobo\JS-Fundamentals> node 2-arguments.js Best
+Argument found
+PS C:\Users\iyobo\JS-Fundamentals> node 2-arguments.js Best School 
+Arguments found
+PS C:\Users\iyobo\JS-Fundamentals> 
