@@ -76,3 +76,13 @@ XXXXXX
 XXXXXX
 PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js -3
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 
+NaN
+PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 1
+NaN
+PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 1 7
+8
+PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 13 89
+102
+PS C:\Users\iyobo\JS-Fundamentals> 
