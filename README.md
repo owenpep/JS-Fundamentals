@@ -86,3 +86,13 @@ PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 1 7
 PS C:\Users\iyobo\JS-Fundamentals> node 9-add.js 13 89
 102
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 10-factorial.js
+1
+PS C:\Users\iyobo\JS-Fundamentals> node 10-factorial.js 3
+6
+PS C:\Users\iyobo\JS-Fundamentals> node 10-factorial.js 89
+1.6507955160908452e+136
+PS C:\Users\iyobo\JS-Fundamentals> node 10-factorial.js 333
+Infinity
+PS C:\Users\iyobo\JS-Fundamentals> 
