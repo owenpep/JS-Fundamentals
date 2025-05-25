@@ -1,9 +1,9 @@
-const messages = [
-  "C is fun",
-  "Python is cool",
-  "JavaScript is amazing"
-];
+const size = parseInt(process.argv[2]);
 
-for (let i = 0; i < messages.length; i++) {
-  console.log(messages[i]);
+if (isNaN(size)) {
+  console.log("Missing size");
+} else {
+  for (let i = 0; i < size; i++) {
+    console.log("X".repeat(size));
+  }
 }
