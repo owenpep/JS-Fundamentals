@@ -59,3 +59,20 @@ PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js
 Missing number of occurrences
 PS C:\Users\iyobo\JS-Fundamentals> node 7-multi_c.js -3
 PS C:\Users\iyobo\JS-Fundamentals> 
+
+PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js
+Missing size
+PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js School
+Missing size
+PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js 2
+XX
+XX
+PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js 6
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+PS C:\Users\iyobo\JS-Fundamentals> node 8-square.js -3
+PS C:\Users\iyobo\JS-Fundamentals> 
